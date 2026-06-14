@@ -1,0 +1,8 @@
+{
+  "git_tag": "v0.1.10",
+  "packages": [
+    {"openwrt": "23.05", "file": "luci-app-fwlive_0.1.10_all.ipk", "sha256": "f468cbbcbc7958c5aca4dcdbb61bdc062a0c27edf2b6bcf3acaa00c4b323dd29"},
+    {"openwrt": "24.10", "file": "luci-app-fwlive_0.1.10-r2_all.ipk", "sha256": "c526fb5e3ff3b45a920c90b271cf449abe6601f092ea2d58959693fd5bcf22d6"},
+    {"openwrt": "25.12", "file": "luci-app-fwlive-0.1.10-r2.apk", "sha256": "860bda0357072a531f5bf2357ee212a1c4b45c1a4d8ca6b21d9e6898e7a6dc23"}
+  ]
+}
