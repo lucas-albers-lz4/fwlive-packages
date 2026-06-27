@@ -6,7 +6,7 @@ Section: luci
 Architecture: all
 Installed-Size: 17292
 Filename: luci-app-fwlive_0.1.18_all.ipk
-Size: 18182
-SHA256sum: 063195321025bcd00b87dd36c76c1d9ad2544fe19fc5fb2df4f74bf36baea942
+Size: 18190
+SHA256sum: 50aeec2cb36f8616e77bef73bcc1c7331126d97bf2d3329a18db7883f867ec6e
 Description:  Live firewall log table (nftables/fw4 and iptables LOG) with filters
 
