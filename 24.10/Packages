@@ -5,9 +5,9 @@ License: Apache-2.0
 Section: luci
 URL: https://github.com/openwrt/luci
 Architecture: all
-Installed-Size: 102400
+Installed-Size: 122880
 Filename: luci-app-fwlive_0.1.26-r1_all.ipk
-Size: 23504
-SHA256sum: 5518e13ff8345f55b44d42118705d8241a058823d448c82cf35e499a62a8c286
+Size: 25015
+SHA256sum: 25c034fe641bcf7a17ac7bb4fbbdb40ccd5bf148b75e40459e9b5ae16f9f4bf2
 Description:  Live firewall log table (nftables/fw4 and iptables LOG) with filters
 
