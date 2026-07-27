@@ -1,10 +1,10 @@
 {
-  "git_tag": "v0.1.27",
+  "git_tag": "v0.1.28",
   "packages": [
-    {"openwrt": "21.02", "file": "luci-app-fwlive_0.1.26_all.ipk", "sha256": "b6e9e358cde292f1803e4355b79ef247d44778cff9a28ba3504bc7d4538a021a"},
-    {"openwrt": "22.03", "file": "luci-app-fwlive_0.1.26_all.ipk", "sha256": "ee59713deb59c241898309f220fa576e3656e4eed7a0e1eb85a801ca7c1d4035"},
-    {"openwrt": "23.05", "file": "luci-app-fwlive_0.1.26_all.ipk", "sha256": "3a6572e5604d6db39deabf947eaf1b26910b3d5a55d0034ef8bb30f9498cb382"},
-    {"openwrt": "24.10", "file": "luci-app-fwlive_0.1.26-r1_all.ipk", "sha256": "25c034fe641bcf7a17ac7bb4fbbdb40ccd5bf148b75e40459e9b5ae16f9f4bf2"},
-    {"openwrt": "25.12", "file": "luci-app-fwlive-0.1.26-r1.apk", "sha256": "65a4d6890e4c4d2b8742745aa464dbdd5e07f56248b08efbbec6eeeeb3ff765e"}
+    {"openwrt": "21.02", "file": "luci-app-fwlive_0.1.28_all.ipk", "sha256": "75186fbd7e39ce06979ab6fd3fe8d76c01e68a92d28489cf64b51b0e9db60bfe"},
+    {"openwrt": "22.03", "file": "luci-app-fwlive_0.1.28_all.ipk", "sha256": "aa2fda802715cdae48daa963addc5f8347a9d303a3fd27ed32788b8d7c160552"},
+    {"openwrt": "23.05", "file": "luci-app-fwlive_0.1.28_all.ipk", "sha256": "7aa4dfad04389b2050b8b129a2fd7031032ceed3d06556b67a80d5f95f413fbd"},
+    {"openwrt": "24.10", "file": "luci-app-fwlive_0.1.28-r1_all.ipk", "sha256": "eab7f561243d9aabbde2ba2bf5b7fef00f36b402e05249af2f470166e15adcc4"},
+    {"openwrt": "25.12", "file": "luci-app-fwlive-0.1.28-r1.apk", "sha256": "02dbaeaaeb159c1e5ef4019499868fb7a1fe3971886df73b9b138ce2cdb564ee"}
   ]
 }
