@@ -1,10 +1,10 @@
 {
-  "git_tag": "v0.1.31",
+  "git_tag": "v0.1.32",
   "packages": [
-    {"openwrt": "21.02", "file": "luci-app-fwlive_0.1.31_all.ipk", "sha256": "9d94844ca175d48a158c361ee7955f2e42f9aefc7c07ece91c240ff8be216395"},
-    {"openwrt": "22.03", "file": "luci-app-fwlive_0.1.31_all.ipk", "sha256": "1da8bfa493fdc68f8b8d62d5fa15c6b4d034a837f7a691a427438d83cb455311"},
-    {"openwrt": "23.05", "file": "luci-app-fwlive_0.1.31_all.ipk", "sha256": "9724b2a662edf7eb644ec8bb36f27c50f0393541f9041e1316bd017c8aa62246"},
-    {"openwrt": "24.10", "file": "luci-app-fwlive_0.1.31-r1_all.ipk", "sha256": "fec97db3a1bee1b95beeab3a630feb30f3675184d9c71e454701d4b1adac0724"},
-    {"openwrt": "25.12", "file": "luci-app-fwlive-0.1.31-r1.apk", "sha256": "02aa63575ebe92e66285c0c3ab0d01aadb07971950ddfd21c7fd7b68d5b15af2"}
+    {"openwrt": "21.02", "file": "luci-app-fwlive_0.1.32_all.ipk", "sha256": "71aa44403b05493e89aae728ba4a93e6bd6341d5779ade86a9643c7b9df52050", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-21.02.7", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:3b3df6aedf9d74006809a529d7da988f3757bc741e6bd25624a935883f7462f1"},
+    {"openwrt": "22.03", "file": "luci-app-fwlive_0.1.32_all.ipk", "sha256": "a962734d3535915271922b8bc579ecbebce8482ea60b31e4020b2d36ae1c7885", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-22.03.7", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:91be758a8cc447d58f8f24083b90045d5242f3cc0e5321fa3066f58bd0bdb3fa"},
+    {"openwrt": "23.05", "file": "luci-app-fwlive_0.1.32_all.ipk", "sha256": "d1dd13a00c670778f6d38ba3b8f05c3cdc73560d54cff1e56effc65a1c4b46e8", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-23.05.5", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:1fcab6603d5686bf4127d4f4dc863c89463317d3a7acd815845a818ffe0c508f"},
+    {"openwrt": "24.10", "file": "luci-app-fwlive_0.1.32-r1_all.ipk", "sha256": "d0eef8662f8bda4f56e07d3983d45eb1b41aed0a4524e2a8927b67060e146d31", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-24.10.5", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:df46cd5d68013d737a1cf45725108dc9f33e28ae6d3de48ad05ef8b81b7cbf35"},
+    {"openwrt": "25.12", "file": "luci-app-fwlive-0.1.32-r1.apk", "sha256": "d7f6015986838266f1364a674528a9e5cd64a1b9bee041495200d1a9e443cecf", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-25.12.0", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:0061d8c6bb7559a79931074ffb50fb0d71add1d26840d314397b50ebbc3bf7be"}
   ]
 }
