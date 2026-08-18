@@ -1,12 +1,12 @@
 Package: luci-app-fwlive
-Version: 0.1.33
+Version: 0.1.34
 Depends: libc, luci-base, logd
 License: Apache-2.0
 Section: luci
 Architecture: all
 Installed-Size: 37056
-Filename: luci-app-fwlive_0.1.33_all.ipk
-Size: 38068
-SHA256sum: 016ba687a88ae5f891af1e4601057b98a1e8be1bdd98f4a267644a0e153d416f
+Filename: luci-app-fwlive_0.1.34_all.ipk
+Size: 38063
+SHA256sum: f12290bbc22cd6a58cd7f7ce43314afa838d8cf677dfba29448e5c8f8785409e
 Description:  Live firewall log table (nftables/fw4 and iptables LOG) with filters
 
