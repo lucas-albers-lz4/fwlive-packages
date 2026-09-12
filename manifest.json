@@ -1,10 +1,10 @@
 {
-  "git_tag": "v0.1.40",
+  "git_tag": "v0.1.41",
   "packages": [
-    {"openwrt": "21.02", "file": "luci-app-fwlive_0.1.40_all.ipk", "sha256": "69381e6817d54b1b2a4bad519b9bfcc293cb1d316e6b404411836ab5ddbee47b", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-21.02.7", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:3b3df6aedf9d74006809a529d7da988f3757bc741e6bd25624a935883f7462f1"},
-    {"openwrt": "22.03", "file": "luci-app-fwlive_0.1.40_all.ipk", "sha256": "ae5b9a2648895f4ce82fd970eef9c763552fabe91f7dab4488b1e5282c77376c", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-22.03.7", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:91be758a8cc447d58f8f24083b90045d5242f3cc0e5321fa3066f58bd0bdb3fa"},
-    {"openwrt": "23.05", "file": "luci-app-fwlive_0.1.40_all.ipk", "sha256": "6a70a3ea78c8bbc2a2764d4e5abd594483944d326ba1ee3da082c22d6a24c0aa", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-23.05.5", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:1fcab6603d5686bf4127d4f4dc863c89463317d3a7acd815845a818ffe0c508f"},
-    {"openwrt": "24.10", "file": "luci-app-fwlive_0.1.40-r1_all.ipk", "sha256": "8749847a58783fd0f7f069abd95a41a75534ac8d37f49d90e0525acf9820ef46", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-24.10.8", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:b28d5e4087dbd3f815a8bf5440a11e54e6bbd3d7400c3729d872e7940a4a77c1"},
-    {"openwrt": "25.12", "file": "luci-app-fwlive-0.1.40-r1.apk", "sha256": "efaa884a44ae901243ddc3f43ee1b48b47f24f5be1d87dc1b4818f9904f2efab", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-25.12.5", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:c8a248ce2411962a89f227db444bf5cea022829b049e6326c7d1032d9762982a"}
+    {"openwrt": "21.02", "file": "luci-app-fwlive_0.1.41_all.ipk", "sha256": "c6b578cae0d0cb77a463a4fbd4460f06467e4ce68dee275d08586c3b0d79715c", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-21.02.7", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:3b3df6aedf9d74006809a529d7da988f3757bc741e6bd25624a935883f7462f1"},
+    {"openwrt": "22.03", "file": "luci-app-fwlive_0.1.41_all.ipk", "sha256": "f53e7181aee3821c83d681f53affe4e2e77796e95fb0decca6803f27a68f057a", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-22.03.7", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:91be758a8cc447d58f8f24083b90045d5242f3cc0e5321fa3066f58bd0bdb3fa"},
+    {"openwrt": "23.05", "file": "luci-app-fwlive_0.1.41_all.ipk", "sha256": "d9147421fd6310f785b6fb352dd67111949cdbd71d99f9b5ce12d819d3815324", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-23.05.5", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:1fcab6603d5686bf4127d4f4dc863c89463317d3a7acd815845a818ffe0c508f"},
+    {"openwrt": "24.10", "file": "luci-app-fwlive_0.1.41-r1_all.ipk", "sha256": "d55e112ea71b5844f435392670f02cbac3cf48ff5f45e86918eca9c498454465", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-24.10.8", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:b28d5e4087dbd3f815a8bf5440a11e54e6bbd3d7400c3729d872e7940a4a77c1"},
+    {"openwrt": "25.12", "file": "luci-app-fwlive-0.1.41-r1.apk", "sha256": "39459dbd74c0ecf0554729d0676c9c4782abdcefa6d81921f3f0115ac7d5f22a", "sdk_image": "ghcr.io/openwrt/sdk:x86-64-25.12.5", "sdk_digest": "ghcr.io/openwrt/sdk@sha256:c8a248ce2411962a89f227db444bf5cea022829b049e6326c7d1032d9762982a"}
   ]
 }
